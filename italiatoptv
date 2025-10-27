@@ -102,5 +102,193 @@ http://78.130.250.2:8023/play/a05r/index.m3u8
 http://78.130.250.2:8023/play/a03o/index.m3u8
 #EXTINF:-1,MARCOPOLO
 http://78.130.250.2:8023/play/a060/index.m3u8
+#EXTM3U
+#EXTINF:0,IT: 20 Mediaset HD
+http://4.team.ga:80/ch2343/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW8RILCxqcYhN3g0kxmsHRKLxNQfw90BYklrGSmXKRAwo
+#EXTINF:0,IT: 27 Twentyseven HD
+http://4.team.ga:80/ch2344/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW4O2H4qGMFHUi5HG-nmjPrhxYgXBcTY61D771ttuWcUJ
+#EXTINF:0,IT: Boing
+http://4.team.ga:80/ch2347/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW--Klu3KS-Sp9lQO4NCxW0LG2f0VPueV3cbeOeiOg6EW
+#EXTINF:0,IT: Boomerang
+http://4.team.ga:80/ch2414/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW9xmramnPSiddhntl_e4mRHO4zzeQkbPZ1jOh33RmFHR
+#EXTINF:0,IT: Canale5 HD
+http://4.team.ga:80/ch2350/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW6BTco3Hdur6dzl7wkBzbYMKcKG1MSg0JttVg39pOhlF
+#EXTINF:0,IT: Cartoon Network HD
+http://4.team.ga:80/ch2394/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW7hj6XbZiyS_hmMt1z6SQ0kfqx217hOJpYxR0vmuZN_Z
+#EXTINF:0,IT: Cartoonito
+http://4.team.ga:80/ch2351/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWy-HGQ1LJomks8Kr8TcJ6wlLdaD2nixJO5aHhpv223S0
+#EXTINF:0,IT: Comedy Central
+http://4.team.ga:80/ch2393/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW0vgz5W3LG_qjWrXN9LxV5m9cE-csdJHYLWQaXL2Oi68
+#EXTINF:0,IT: Crime + Investigation HD
+http://4.team.ga:80/ch2397/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWxrme911wuNT23qvICug3WdCg-7-AR0ryAbXl_PMqXix
+#EXTINF:0,IT: Cine34 HD
+http://4.team.ga:80/ch2352/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW40-bZSvkTxCFOYbNTQaJPAm8tXgK1s6Hx9Jv3XS89Lj
+#EXTINF:0,IT: Dazn Event 1
+http://4.team.ga:80/ch2957/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW6aEpgT_m8wl71T9_b5UYs79E-g0qxrGZebfYdMdSyDr
+#EXTINF:0,IT: DMAX HD
+http://4.team.ga:80/ch2353/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW1Oq-ph1iMeJQUkUMjSQvbxDYxoZQt97lmbLcfPh2JRG
+#EXTINF:0,IT: DeAKids
+http://4.team.ga:80/ch2345/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW1kFWhMgZGymXpT_PuB4ynFo-zHzo2nSmCWqt1De5tK0
+#EXTINF:0,IT: Eurosport 1 HD
+http://4.team.ga:80/ch2403/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW5gl_AG8bglWcZ1oTVlX9qvHcCc9Fu72ldQIaU_i_Bx9
+#EXTINF:0,IT: Eurosport 2 HD
+http://4.team.ga:80/ch2406/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW39LUHpOO3i5nrSU7lsrqPECITXOWkRZ2_5_N_YkN2Eo
+#EXTINF:0,IT: Focus HD
+http://4.team.ga:80/ch2356/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW1qElUybXIVrpAbnlr9_v53C0Gq62hXNFmoAiAtJwj-D
+#EXTINF:0,IT: Food Network HD
+http://4.team.ga:80/ch2357/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWw1ztFOMni-Ly2N5C330Ys3g-8wHmDSs7f79fEt190dW
+#EXTINF:0,IT: Frisbee
+http://4.team.ga:80/ch2358/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW07EfLIWlJP9V8sCY9nuuiIlDQZzGg3CKr045wJ4mfQJ
+#EXTINF:0,IT: Giallo HD
+http://4.team.ga:80/ch2360/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW9ghLmuYE0Qn_y1xPCDp2UysrCQTXMbwxu9uaoCzVC2A
+#EXTINF:0,IT: HGTV HD
+http://4.team.ga:80/ch2361/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWwxXmyk0kAWvcJj3L1XwA-2bJGmZ2tGLO2SCcBKaUCWA
+#EXTINF:0,IT: History HD
+http://4.team.ga:80/ch2398/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW3HSYKfji7e5Zt_RtJfuUnxRoR4muc_WYtV1ky1wSRuV
+#EXTINF:0,IT: Iris HD
+http://4.team.ga:80/ch2362/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWzdpQcrqTsAFFTYcaQXsnbgAvlV5f1if0mfXM9jgGYv-
+#EXTINF:0,IT: K2
+http://4.team.ga:80/ch2364/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWyNRK6G66dYhRcdFlGN92zKNgfNirjFg5y170_HPu19e
+#EXTINF:0,IT: LA5 HD
+http://4.team.ga:80/ch2368/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW9tXkN0zlPR4sz1FarJ6h7K0Qhu39KFWjujmZS0MNE6N
+#EXTINF:0,IT: LA7 HD
+http://4.team.ga:80/ch2365/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW8XASSbP3WDfh4b2SqA-JpzTbuHbH4fQ7sQ1DJXuxtH0
+#EXTINF:0,IT: LA7d HD
+http://4.team.ga:80/ch2366/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW8VElQkIC2A-wrMioKqnrFlgQDnM4CEG-jUWv0KBPcJf
+#EXTINF:0,IT: Mediaset Italia 1 HD
+http://4.team.ga:80/ch2363/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW6MQR9BtjS3KA0jGleUuVrpvb1OVlKaSULNYcImSmC9T
+#EXTINF:0,IT: Mediaset Italia 2 HD
+http://4.team.ga:80/ch2370/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW09iJVkYlfGw_dyz5hukG201TNFzHShA6FY3djh6HXyo
+#EXTINF:0,IT: Mediaset Extra HD
+http://4.team.ga:80/ch2369/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWwtiV33-YxTm7J22pjvIvx8XClkvtM5f7ZydICAM5LvU
+#EXTINF:0,IT: MotorTrend HD
+http://4.team.ga:80/ch2371/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW5nVVsWd7AtzSJgXqPuLKbnOxAkRYQ48wdHAvan2eLjL
+#EXTINF:0,IT: MTV HD
+http://4.team.ga:80/ch2400/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWwofXTpinM8t3ue8C2qyu4-k_2vIUFpXF74SujecP1bL
+#EXTINF:0,IT: Nove HD
+http://4.team.ga:80/ch2372/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWzCyQ-suM25a-tf-OQj1TjLYItySWfLKZjarUFE2t3f5
+#EXTINF:0,IT: Nickelodeon
+http://4.team.ga:80/ch2401/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWxwJL9ZEqcPOVc-on4pGfZ_UmgDoC97rt75DoYbj54vH
+#EXTINF:0,IT: Nick Jr
+http://4.team.ga:80/ch2402/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW0tykauPiHf7iuICUTXoXb86xHY3lUykF-0Yt7L4wevN
+#EXTINF:0,IT: Rai 1 HD
+http://4.team.ga:80/ch2379/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW74BGrfek88QLm1ceu3IMORBVfnqYsWkDAWgoejaVX5Z
+#EXTINF:0,IT: Rai 2 HD
+http://4.team.ga:80/ch2380/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW56YvMK7J0udTDtPYE_tqY-_Fh-eo7I9TTLSXVy-T6tZ
+#EXTINF:0,IT: Rai 3 HD
+http://4.team.ga:80/ch2381/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWwyn1CvpsLSLoalV3VFeXgtLRKBmx2Mnk6yZYXDUuYHq
+#EXTINF:0,IT: Rai 4 HD
+http://4.team.ga:80/ch2382/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW4yh6PzJ0fEvtgOWCjB9gwTGcmtkNUvRUzKSrhzZRZ7-
+#EXTINF:0,IT: Rai 5 HD
+http://4.team.ga:80/ch2383/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW2Y57pMvtRSzCjQqwA9Pw1Nxezmf9LortYIJsH5iQka_
+#EXTINF:0,IT: Rai Gulp HD
+http://4.team.ga:80/ch2384/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW0LZEOuhyhPC4_qWhXzgey9g1sTzNFdhaSnb8G_LSBdo
+#EXTINF:0,IT: Rai Movie HD
+http://4.team.ga:80/ch2385/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW_Ew13ZKiDBVff6yA4bRU8YtUUXMPFGDPg-I4BUHxUB_
+#EXTINF:0,IT: Rai News 24
+http://4.team.ga:80/ch2386/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWyfCEpXZnLUSRTQ-c4eG4E3hc9_Wv59WHQR3fZLFJ2H0
+#EXTINF:0,IT: Rai Premium HD
+http://4.team.ga:80/ch2387/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW0jEXUH_RIu7VtRs1TCOnJKDhVfX7SBVZ2-Vh6FUZh3n
+#EXTINF:0,IT: Rai Sport HD
+http://4.team.ga:80/ch2388/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW8lj1Okkz5ECOnrElLFIf3g_oIMbJIlPUgZfIxCoKYjR
+#EXTINF:0,IT: Rai Italia HD
+http://4.team.ga:80/ch2803/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW-bDxLbB4ja_8HHVAR3SkfmSvvdf175wKtSaXM-YCerR
+#EXTINF:0,IT: Rai Scuola HD
+http://4.team.ga:80/ch2804/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWyV1-3cL-9A4zitlYhYD3HCMCuRmoSmk0mLJdes55N5b
+#EXTINF:0,IT: Rai Storia HD
+http://4.team.ga:80/ch2805/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW2rcJrgPr7ASZhyATUJP9FTSF0pNcAxo54T2e3CeXUKS
+#EXTINF:0,IT: Rai YoYo HD
+http://4.team.ga:80/ch2806/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW6tXVhiqSOj4Hj4wOzCdeNrTMgwZUGptq4T66_WFqTn6
+#EXTINF:0,IT: Realtime HD
+http://4.team.ga:80/ch2391/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW6cFHCaCPWVMRJJXON7NsYJVeY3A7VyLZHerGmPlN7Lu
+#EXTINF:0,IT: Rete4 HD
+http://4.team.ga:80/ch2392/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW8uA_MkE7WY07qvBGLZ2wZXttaRx43vi6JEnvE5BT-sC
+#EXTINF:0,IT: Rsi LA1
+http://4.team.ga:80/ch2416/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW0cLKMxtVeIHfL13hPg3IcFk01G0Uv-uBWYBY_BLAPvR
+#EXTINF:0,IT: Rsi LA2
+http://4.team.ga:80/ch2415/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW7UUt7TWtAHTKSbSPhtq1H5tbG4uFIuyK8IZrwJH2uIV
+#EXTINF:0,IT: Sky Sport Arena HD
+http://4.team.ga:80/ch2417/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWxg5E8NDae9GtgUQQTc5ocjoIaJODK1HEhGF4EroTjzE
+#EXTINF:0,IT: Sky Sport Calcio HD
+http://4.team.ga:80/ch2418/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW6SsnO0pVVudV-LNhVzd8PvgZBauWzCFJ9ixyiXYLgE4pQgG-
+#EXTINF:0,IT: Sky Sport Max HD
+http://4.team.ga:80/ch2413/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWwGqcUhyY9epAby0AYnEm5d-6e-a984WNARbOkf9URDa
+#EXTINF:0,IT: Sky Sport F1 HD
+http://4.team.ga:80/ch2419/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWxyKNWfLEE162sbjpmxgEi1HAAsPhym_Y_4-k7yRwqs_
+#EXTINF:0,IT: Sky Sport Golf HD
+http://4.team.ga:80/ch2421/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW8_du8-VTFMHlha1PiRizRZlG2K-dNSP4VBG2fp2ZtQM
+#EXTINF:0,IT: Sky Sport MotoGP HD
+http://4.team.ga:80/ch2422/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW_P7eXLlHNe-vjIYsoep8mCsIYPXQsxcQo45uyTqfG2s
+#EXTINF:0,IT: Sky Sport NBA HD
+http://4.team.ga:80/ch2423/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW8gcfzXWlhDU-YcAJy7-7Ct2kF_d1H8HthhOqA7EgzNd
+#EXTINF:0,IT: Sky Sport Tennis HD
+http://4.team.ga:80/ch2424/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW39sFt66mb0Navtwczc7g6S4nVdPyzkWjJZiI_I0Vi4C
+#EXTINF:0,IT: Sky Sport Super Tennis HD
+http://4.team.ga:80/ch2412/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWy0ybIGJT-jz2woJo-e7ux8gL5IlB3lUEikA7LfQ1Vx7
+#EXTINF:0,IT: Sky Sport Uno HD
+http://4.team.ga:80/ch2425/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW2fdIS7l-qu5gUe0RAe_IPZRQ-VVNLCtdQYOBh6i3mxF
+#EXTINF:0,IT: Sport Italia Calcio
+http://4.team.ga:80/ch3071/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW8hrywE4RZ9r37PIbNPXya9C_zx39gZ99PSDcR-7KEdZ
+#EXTINF:0,IT: Sport Italia Plus
+http://4.team.ga:80/ch3072/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW2s56KmW2Y-UENSdzWsF1KXEmYDdCxelAFZ-qJ6A_S8G
+#EXTINF:0,IT: Sky Sport24 HD
+http://4.team.ga:80/ch2426/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWyeJgS2MvV5X6oTtAGCiZkOV5rN0SJYjTky4VQx721r1
+#EXTINF:0,IT: Sky Sport 251 HD
+http://4.team.ga:80/ch2427/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW8GdCdkMSgBuFZIL5WwXuVt-ABxrF-GZqh6LtpCPAMqy
+#EXTINF:0,IT: Sky Sport 252 HD
+http://4.team.ga:80/ch2428/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW8-AGIKAccBVUXqDvH55v0o2i2XIrRwoRyxakU9uSO7Y
+#EXTINF:0,IT: Sky Sport 253 HD
+http://4.team.ga:80/ch2429/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW0OtXcEb2uSKgmNMOyiP3voz6JlmxRMBgAOe551U8D6Y
+#EXTINF:0,IT: Sky Sport 254 HD
+http://4.team.ga:80/ch2430/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW5Pz8DWAxE-m9llTk7pwdUoWGVOuxjHX0oiwNVHTkIRB
+#EXTINF:0,IT: Sky Sport 255 HD
+http://4.team.ga:80/ch2431/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW4FmSYxpQiYq8spnEYHrLLLIo7BJK-ld61JPO4vxAWrf
+#EXTINF:0,IT: Sky Sport 256 HD
+http://4.team.ga:80/ch2432/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW21kA9yRFC2g-mAHDAQrZ55460xjKDiueeizwcXglyLM
+#EXTINF:0,IT: Sky Sport 257 HD
+http://4.team.ga:80/ch2433/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWyBQBrmHtutGkyrczX4qLHXful8W1Iu_rEqFQA-kSUXF
+#EXTINF:0,IT: Sky Sport 258 HD
+http://4.team.ga:80/ch2434/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW5CXvJCH2NuURL8UFB4CG2ODBEaJN5TwfuBLeepGyJC5
+#EXTINF:0,IT: Sky Sport 259 HD
+http://4.team.ga:80/ch2435/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW2I5tfYOr7Nh-p1X4w1Ql7b4uGCbddivmVRxuCAK0FWb
+#EXTINF:0,IT: Sky Cinema Action HD
+http://4.team.ga:80/ch2420/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWycv1-eA9hSQEOoVe54hTFsTpJj4ADnBmRSoB4sbLf8p
+#EXTINF:0,IT: Sky Cinema Collection HD
+http://4.team.ga:80/ch2346/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW9fHAOV_RQXdlWxBi3fwUaejF3g0WICuPlvERWsLUiRk
+#EXTINF:0,IT: Sky Cinema Comedy HD
+http://4.team.ga:80/ch2348/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWyIA8JkEwp0yaBHzYHn4XLoDT5bWEfMhaebTg8TDFOqI
+#EXTINF:0,IT: Sky Cinema Drama HD
+http://4.team.ga:80/ch2349/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW25ZtREJvl7YT3D3HzVfPlJN2_-rzsjpY6GamDKyEkN7
+#EXTINF:0,IT: Sky Cinema Due HD
+http://4.team.ga:80/ch2405/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW-BjWiPZt55CTWFaych0DF05VXNHosE-uKstSl0lRADl
+#EXTINF:0,IT: Sky Cinema Family HD
+http://4.team.ga:80/ch2354/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWx_RmV3LkoAyeO2TQiAcR0eWnuQRzlGoPwD4yOrU0J5o
+#EXTINF:0,IT: Sky Cinema Romance HD
+http://4.team.ga:80/ch2355/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWzBA_jBmBTEYdx_302Ksla7XcRutLGKkZ85g7GjZVdip
+#EXTINF:0,IT: Sky Cinema Suspense HD
+http://4.team.ga:80/ch2359/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW2BeojHB8o3htBAKpUMDDz4LLopIDxa7QYGLCInw7dC2
+#EXTINF:0,IT: Sky Cinema Uno HD
+http://4.team.ga:80/ch2367/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWxh5SOO-jJAs86iQHqjP_VaQjPp1xgF9ZxbJCYos3H-H
+#EXTINF:0,IT: Sky Arte HD
+http://4.team.ga:80/ch2378/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWyto85oh6uxHDLrNYzhXcIcUKj0EJzKVGCiEdSQbIomP
+#EXTINF:0,IT: Sky Atlantic HD
+http://4.team.ga:80/ch2377/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW9Og2lt88EaPhpvnLzZyq6j0LFF7-AWZoSx3-JpzSIel
+#EXTINF:0,IT: Sky Documentaries HD
+http://4.team.ga:80/ch2373/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW3V2KRayscOTvQvhkzn0mfyzueHivmc-73UlXBTQs2F2
+#EXTINF:0,IT: Sky Investigation HD
+http://4.team.ga:80/ch2374/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWwsvR5pE5OM23lwmjYU-8_7MwvvU4plCWt5A7-JJTOfd
+#EXTINF:0,IT: Sky Nature HD
+http://4.team.ga:80/ch2375/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW5XGEXsIIk8JvNrn-849iqDbiAyVk2UGB-XnntzuZwHe
+#EXTINF:0,IT: TG24 HD
+http://4.team.ga:80/ch2437/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW5ELTPgkpGJrrd_h-Tvf3H0uZ494LBsaRF1YhM_-C1F9
+#EXTINF:0,IT: Tgcom24 HD
+http://4.team.ga:80/ch2395/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW6dd1ahgBsG04ggwn83mdmadZhh4sV1Mqu9zjAZprvNn
+#EXTINF:0,IT: Sky Serie HD
+http://4.team.ga:80/ch2376/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWwO8k5s4eqJiphWRU5ibL6D8O3io4D4zFNxmyaC_bbvc
+#EXTINF:0,IT: Sky Uno HD
+http://4.team.ga:80/ch2411/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWw7bs94ivwDOOqbbLCqEtZqbT1DNeDD0nRxtKslshAuo
+#EXTINF:0,IT: Top Crime HD
+http://4.team.ga:80/ch2396/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW5Cihuqa79VUpzT_tbSGx2Zvo1mDauPMKx35ospa5P4o
+
 
 
